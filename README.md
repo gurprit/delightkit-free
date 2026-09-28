@@ -2,7 +2,9 @@
 
 A tiny, dependency-free celebration burst for ecommerce buttons and success actions.
 
-**Live demo:** https://gurprit.github.io/delightkit/
+**Free live demo:** https://gurprit.github.io/delightkit/free/
+
+**Full DelightKit demo:** https://gurprit.github.io/delightkit/
 
 **DelightKit Pro:** https://sahotaguru.gumroad.com/l/gewsp
 
